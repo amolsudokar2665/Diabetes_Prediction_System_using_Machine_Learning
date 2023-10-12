@@ -11,7 +11,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 from sklearn.ensemble import RandomForestClassifier
 
-df =pd.read_csv('/dataset.csv')
+df =pd.read_csv('dataset.csv')
 
 
 #HEADINGS
