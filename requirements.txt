@@ -4,5 +4,5 @@ Streamlit
 scikit-learn
 seaborn
 matplotlib
-randomforest
-PIL
+random-forest-mc
+pillow
