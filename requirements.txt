@@ -4,3 +4,4 @@ Streamlit
 scikit-learn
 seaborn
 matplotlib
+randomforest
