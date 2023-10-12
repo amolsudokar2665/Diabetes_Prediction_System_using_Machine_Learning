@@ -12,5 +12,6 @@ RUN pip3 install -r requirements.txt
 # Set environment variables
 ENV NAME World
 
+EXPOSE 8501
 # Run a command to start the application
 CMD ["streamlit run", "app.py"]
